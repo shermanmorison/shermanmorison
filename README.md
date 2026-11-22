@@ -1,4 +1,4 @@
-### Olá meu nome é Sherman
+## Olá meu nome é Sherman
 
 - 🔭 Hoje eu trabalho na aréa de Logística.
 - 🌱 Atualmente estudo Full Stack.
