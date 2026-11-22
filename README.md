@@ -1,8 +1,6 @@
 ## Olá meu nome é Sherman Morison
 
-
-<div class="tenor-gif-embed" data-postid="9810614" data-share-method="host" data-aspect-ratio="1.78771" data-width="100%"><a href="https://tenor.com/view/work-computer-gif-9810614">Work Computer GIF</a>from <a href="https://tenor.com/search/work-gifs">Work GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-<h3 align="left">Connect with me!</h3>
+<img align="right" alt="" height="190px" src="[https://media1.tenor.com/m/pv2oZ5a5HCIAAAAd/cyberpunk2077-edgerunners.gif](https://tenor.com/pt-BR/view/work-computer-gif-9810614)">
 
 - 🔭 Hoje eu trabalho na aréa de Logística.
 - 🌱 Atualmente estudo Full Stack.
