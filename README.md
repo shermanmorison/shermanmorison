@@ -1,8 +1,7 @@
 ## Olá meu nome é Sherman Morison
 
-#
+<img width="498" height="278" alt="work-computer" src="https://github.com/user-attachments/assets/d684d4a8-35c5-47f2-80f5-c10bac63cba0" />
 
-<img align="right" alt="" height="190px" src="https://tenor.com/pt-BR/view/work-computer-gif-9810614)">
 
 - 🔭 Hoje eu trabalho na aréa de Logística.
 - 🌱 Atualmente estudo Full Stack.
