@@ -1,6 +1,10 @@
-<img width="430" height="80" alt="sherman-logo" src="https://github.com/user-attachments/assets/eedc1ba8-1cff-4485-b338-995a95bf6930" />
+## Olá meu nome é Sherman Morison
 
-## Olá meu nome é Sherman
+#
+
+<img align="right" alt="" height="190px" src="https://media1.tenor.com/m/pv2oZ5a5HCIAAAAd/cyberpunk2077-edgerunners.gif">
+
+<h3 align="left">Connect with me!</h3>
 
 - 🔭 Hoje eu trabalho na aréa de Logística.
 - 🌱 Atualmente estudo Full Stack.
