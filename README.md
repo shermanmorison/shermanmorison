@@ -1,6 +1,8 @@
 ## Olá meu nome é Sherman Morison
 
-<img align="right" alt="" height="190px" src="[https://media1.tenor.com/m/pv2oZ5a5HCIAAAAd/cyberpunk2077-edgerunners.gif](https://tenor.com/pt-BR/view/work-computer-gif-9810614)">
+#
+
+<img align="right" alt="" height="190px" src="https://tenor.com/pt-BR/view/work-computer-gif-9810614)">
 
 - 🔭 Hoje eu trabalho na aréa de Logística.
 - 🌱 Atualmente estudo Full Stack.
