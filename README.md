@@ -1,4 +1,4 @@
-
+<img width="430" height="80" alt="sherman-logo" src="https://github.com/user-attachments/assets/eedc1ba8-1cff-4485-b338-995a95bf6930" />
 
 ## Olá meu nome é Sherman
 
