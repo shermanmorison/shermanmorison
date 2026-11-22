@@ -10,15 +10,7 @@
         <p>Sou estudante inicial de Full Stack</p>    
         <p>
             <H3>Minhas habilidades</H3>
-        <ul>
-            <li>HTML</li>
-            <li>CSS</li>
-            <li>Java Script</li>  
-        </ul>
-        <ol>
-            <li>Dominar React e carreira</li>
-        </ol>
-    </body>
+       
 </html>
 
 <!--
