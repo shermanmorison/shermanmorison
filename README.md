@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./sherman-logo.svg" alt="Sherman Morison" width="400">
-</p>
+
 
 ## Olá meu nome é Sherman
 
