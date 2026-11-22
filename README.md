@@ -3,7 +3,6 @@
     <head>
         <meta charset="UTF-8" />
         <meta name="viewport" content="windth=device-width, initial-scale=1,0">
-        <title>Document</title>
     </head>
     <body>
         <h1>Sherman Morison Sampaio Ribeiro</h1> 
@@ -19,7 +18,6 @@
         <ol>
             <li>Dominar React e carreira</li>
         </ol>
-<a href="https://github.com/shermanmorison" target="_blank">Clique aqui</a>
     </body>
 </html>
 
