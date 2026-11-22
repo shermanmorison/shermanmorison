@@ -1,6 +1,6 @@
 ## Olá meu nome é Sherman Morison
 
-<img align="right" width="498" height="278" alt="work-computer" src="https://github.com/user-attachments/assets/d684d4a8-35c5-47f2-80f5-c10bac63cba0" />
+<img align="right" width="450" height="278" alt="work-computer" src="https://github.com/user-attachments/assets/d684d4a8-35c5-47f2-80f5-c10bac63cba0" />
 
 
 💻 **Estudante de Desenvolvimento Full Stack** | 🔧 **Entusiasta de Hardware & IA**
