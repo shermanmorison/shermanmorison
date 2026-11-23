@@ -1,7 +1,7 @@
 ## Olá meu nome é Sherman Morison
 
- 
-
+ <img align="right" width="300" height="200" alt="work-computer" src="https://github.com/user-attachments/assets/d684d4a8-35c5-47f2-80f5-c10bac63cba0" />
+<br clear="left" />
 
 💻 **Estudante de Desenvolvimento Full Stack** | 🔧 **Entusiasta de Hardware & IA**
 
@@ -21,4 +21,3 @@
   <a href = "mailto:shermanmorison@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div>
 
- <img align="right" width="300" height="200" alt="work-computer" src="https://github.com/user-attachments/assets/d684d4a8-35c5-47f2-80f5-c10bac63cba0" />
