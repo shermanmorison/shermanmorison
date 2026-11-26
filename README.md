@@ -10,8 +10,7 @@
 ### 🚀 Sobre mim
 
 📚 Atualmente em transição de carreira para o desenvolvimento **Full Stack**, construindo uma base sólida tanto no front-end quanto no back-end.  
-🤖 Apaixonado por tecnologia e hardware, busco unir **programação e Inteligência Artificial** para criar projetos úteis.
-
+🤖 Apaixonado por tecnologia e hardware, busco unir **programação e Inteligência Artificial** para criar projetos úteis.     
 🌱 Em constante evolução: aprendendo novas stacks, boas práticas de código e arquitetura de software.  
 👯 Aberto e animado para **colaborar com projetos iniciais de desenvolvimento** (open-source ou iniciativas em grupo) para ganhar experiência prática e trocar conhecimento!
 
